@@ -87,7 +87,7 @@ itself decides to call `final_answer`.
 ## Installation
 
 ```bash
-git clone <your-repo-url> research-agent
+git clone git@github.com:DEmosus/Research-Agent.git
 cd Research-Agent
 
 python3 -m venv .venv
