@@ -1,0 +1,20 @@
+# Core dependencies for the Research Agent.
+# For an exact, reproducible environment use requirements-lock.txt instead:
+#   pip install -r requirements-lock.txt
+
+langgraph
+langchain-core
+langchain-openai
+langchain-community
+langchain-text-splitters
+pypdf
+semantic-router
+pinecone
+google-search-results
+pandas
+requests
+tqdm
+python-dotenv
+
+# Testing
+pytest
